@@ -19,3 +19,5 @@ if __name__ == "__main__":
 
     print("{}".format(card1))
     print("{}".format(card2))
+    print("{}".format(card3))
+    print("{}".format(card4))
